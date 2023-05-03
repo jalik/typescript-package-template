@@ -1,0 +1,14 @@
+# Project settings
+.idea/
+*.iml
+
+# npm packages
+node_modules/
+
+# Compiled files
+/cjs/
+/dist/
+/esm/
+
+# Coverage
+/coverage/
